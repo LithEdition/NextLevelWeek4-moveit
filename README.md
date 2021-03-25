@@ -10,6 +10,7 @@ Projeto desenvolvido na semana Next Level Week.
 <br />
 <br />
 <br />
+
 # 🔨 Tecnologias utilizadas:
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
@@ -40,9 +41,6 @@ Projeto desenvolvido na semana Next Level Week.
 <p> 
 	<strong> - Clone Repositório </strong> <br /> 
 	&nbsp;&nbsp;&nbsp; <i> $ git clone https://github.com/LithEdition/NextLevelWeek4-moveit.git </i> 
-	<br />
-	<strong> - Instale o nodemon </strong> <br /> 
-	&nbsp;&nbsp;&nbsp; <i> npm install -g nodemon </i>
 	<br />
 	<strong> - Inicialize o servidor com yarn </strong> <br /> 
 	&nbsp;&nbsp;&nbsp; <i> yarn dev </i>
