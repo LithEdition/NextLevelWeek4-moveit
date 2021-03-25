@@ -11,13 +11,13 @@ Projeto desenvolvido na semana Next Level Week.
 <br />
 <br />
 # 🔨 Tecnologias utilizadas:
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" >
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" >
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <br />
 <br />
 <br />
@@ -27,10 +27,10 @@ Projeto desenvolvido na semana Next Level Week.
 
 # 📷 Layout da aplicação
 <p>
-<img src="https://i.imgur.com/PKe1FOM.png" width="400">
-<img src="https://i.imgur.com/dMduJdL.png" width="400">
-<img src="https://i.imgur.com/msnt74J.png" width="400">
-<img src="https://i.imgur.com/eAm6wFA.png" width="400">
+<img src="https://imgur.com/Nh6aZQ9.png" width="400">
+<img src="https://imgur.com/BGvBUuq.png" width="400">
+<img src="https://imgur.com/ntkS2uS.png" width="400">
+<img src="https://imgur.com/ETkY8t6.png" width="400">
 <br />
 <br />
 <br />
@@ -41,11 +41,11 @@ Projeto desenvolvido na semana Next Level Week.
 # 🚀 Como rodar a aplicação localmente: 
 <p> 
 	<strong> - Clone Repositório </strong> <br /> 
-	&nbsp;&nbsp;&nbsp; <i> $ git clone https://github.com/LithEdition/next-level-week-2.git </i> 
+	&nbsp;&nbsp;&nbsp; <i> $ git clone https://github.com/LithEdition/NextLevelWeek4-moveit.git </i> 
 	<br />
 	<strong> - Instale o nodemon </strong> <br /> 
 	&nbsp;&nbsp;&nbsp; <i> npm install -g nodemon </i>
 	<br />
-	<strong> - Inicialize o servidor com nodemon </strong> <br /> 
-	&nbsp;&nbsp;&nbsp; <i> nodemon src/server.js </i>
+	<strong> - Inicialize o servidor com yarn </strong> <br /> 
+	&nbsp;&nbsp;&nbsp; <i> yarn dev </i>
 </p> 
